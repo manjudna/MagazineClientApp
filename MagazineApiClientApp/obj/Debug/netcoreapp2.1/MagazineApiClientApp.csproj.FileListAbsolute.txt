@@ -1,0 +1,11 @@
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\bin\Debug\netcoreapp2.1\MagazineApiClientApp.deps.json
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\bin\Debug\netcoreapp2.1\MagazineApiClientApp.runtimeconfig.json
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\bin\Debug\netcoreapp2.1\MagazineApiClientApp.runtimeconfig.dev.json
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\bin\Debug\netcoreapp2.1\MagazineApiClientApp.dll
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\obj\Debug\netcoreapp2.1\MagazineApiClientApp.csprojAssemblyReference.cache
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\obj\Debug\netcoreapp2.1\MagazineApiClientApp.csproj.CoreCompileInputs.cache
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\obj\Debug\netcoreapp2.1\MagazineApiClientApp.AssemblyInfoInputs.cache
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\obj\Debug\netcoreapp2.1\MagazineApiClientApp.AssemblyInfo.cs
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\bin\Debug\netcoreapp2.1\MagazineApiClientApp.pdb
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\obj\Debug\netcoreapp2.1\MagazineApiClientApp.dll
+C:\Users\manbab\source\repos\MagazineApiClientApp\MagazineApiClientApp\obj\Debug\netcoreapp2.1\MagazineApiClientApp.pdb
